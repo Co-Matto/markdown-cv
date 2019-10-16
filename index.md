@@ -1,86 +1,56 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum Alessio Comandini
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Alessio Comandini
+Studente, Amministratore Trashware Cesena.
 
 
-## Currently
+## Impegni correnti
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Amministratore Trashware Cesena:
+Mi occupo della gestione del progetto seguendo in modo preponderante la gestione del laboratorio.
+Questa incarico prevede la ricerca, gestione e formazione dei volontari.
+Oltre a questo gestisco i flussi in entrata e in uscita delle apparecchiatura donata e da donare.
+Mi occupo anche degli eventuali sopralluoghi e valutazioni in loco per il ritiro del materiale o
+per la valutazione delle apparecchiature e materiale necessario per i laboratori richiesti.
 
 
-## Education
+### Interessi
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Riuso, Fai da te, Elettronica, Cucina, Cottura della Carne, Audio  Hi-Fi, Automobili. 
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+## Studi
 
-Associate, *French Academy of Science*, Paris, France
+`Settembre 2013- oggi`
+__Ingegneria e Scienze informatiche Cesena__
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Stetembre 2008 - Giugno 2013 `
+__Istituto Tecnico Agrario G.Garibaldi__
 
 
-## Occupation
+## Impieghi
 
-`1600`
-__Royal Mint__, London
+`2019`
+__Amministratore__, Trashware Cesena
 
-- Warden
-- Minted coins
+`Marzo 2018-Gennaio 2019 `
+__Volontario-Amministratore__, Trashware Cesena
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Settembre 2017- Marzo 2018`
+__Amministratore__, Trashware Cesena
+
+`Giugno 2017- Agosto 2018`
+__Cameriere__, Osteria dei Golosi, Cesenatico
+
+`Marzo 2016- Settembre 2017`
+__Operatore di laboratorio__,Trashware Cesena
+
+`Da sempre`
+__Operatore Agricolo__,Presso l'azienda di famiglia, con carico di lavoro preponderante nei periodi estivi.
 
 
 
